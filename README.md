@@ -1,17 +1,20 @@
-Avisynth_Voltaire_Records_Videos
+Avisynth Voltaire Records Videos
 ================================
 
 What is Avi Synth ?
 ---------------------
-a killer procedural program for video editing.  Sort of like Apple Script, sort of like functional programming...
+http://www.avisynth.nl/index.php/Main_Page
+
+a killer procedural program for video editing.  
 well.. you just have to try it!!! 
-you'll seriously trip out on entering a few commands targeting source video files and watch it do it's thing!
+you will trip out on entering a few commands targeting source video files and watch it do it's thing!
+Things that take hours and days in After Effects can be done in a few minutes.
 support for installed fonts on your system, blendmodes, audio amplitude detection ( can be used for beat detection )
 audio frequency detection , etc. , etc
 
 if you do use avisynth, please get in touch with me, I have been meaning to get back into it.
 
-avisynth.nl/index.php/Main_Page
+
 
 This repo is the avisynth source for a series of remix videos I did for Voltaire Records in 2012.
 

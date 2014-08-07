@@ -14,14 +14,9 @@ audio frequency detection , etc. , etc
 
 if you do use avisynth, please get in touch with me, I have been meaning to get back into it.
 
-
-
-This repo is the avisynth source for a series of remix videos I did for Voltaire Records in 2012.
-
-avisynth source for Voltaire Record Videos on youtube
-
 The Videos
 ---------------------
+A series of remix videos I did for Voltaire Records in 2012.
 
 Steve Moore Video : https://www.youtube.com/watch?v=VeJtHxsS1OM
 

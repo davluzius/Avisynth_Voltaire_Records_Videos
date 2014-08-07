@@ -16,7 +16,7 @@ if you do use avisynth, please get in touch with me, I have been meaning to get 
 
 The Videos
 ---------------------
-A series of remix videos I did for Voltaire Records in 2012.
+A series of remix videos I did for Voltaire Records in 2012 using Avisynth:
 
 Steve Moore Video : https://www.youtube.com/watch?v=VeJtHxsS1OM
 

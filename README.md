@@ -7,6 +7,15 @@ http://www.avisynth.nl/index.php/Main_Page
 
 a killer procedural program for video editing.  
 well.. you just have to try it!!! 
+
+gscript - control structures conditionals, etc. 
+----------------------------------------
+basic things you expect from a language are not inherintly available, but can be used via this plugin : 
+http://forum.doom9.org/showthread.php?t=147846
+
+
+The Steve Moore video below has examples of Gscript within avisynth.
+
 you will trip out on entering a few commands targeting source video files and watch it do it's thing!
 Things that take hours and days in After Effects can be done in a few minutes.
 support for installed fonts on your system, blendmodes, audio amplitude detection ( can be used for beat detection )

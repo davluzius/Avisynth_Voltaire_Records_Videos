@@ -1,5 +1,19 @@
 Avisynth Voltaire Records Videos
-================================
+---------------------------------
+
+A series of remix videos I did for Voltaire Records in 2012 using Avisynth:
+
+Steve Moore Video : https://www.youtube.com/watch?v=VeJtHxsS1OM
+
+used basic beat detection by supplying two audio tracks, but only outputting one
+
+one audio track is rendered, the other is the beat sync just used for the program
+
+Hatchback Video : https://www.youtube.com/watch?v=nCSL6BYnWxA
+
+Chautauqua Video : https://www.youtube.com/watch?v=lg55vj2YCUc
+
+Beat Broker Video : https://www.youtube.com/watch?v=VlJCC01Pc7U
 
 What is Avi Synth ?
 ---------------------
@@ -23,21 +37,7 @@ audio frequency detection , etc. , etc
 
 if you do use avisynth, please get in touch with me, I have been meaning to get back into it.
 
-The Videos
----------------------
-A series of remix videos I did for Voltaire Records in 2012 using Avisynth:
 
-Steve Moore Video : https://www.youtube.com/watch?v=VeJtHxsS1OM
-
-used basic beat detection by supplying two audio tracks, but only outputting one
-
-one audio track is rendered, the other is the beat sync just used for the program
-
-Hatchback Video : https://www.youtube.com/watch?v=nCSL6BYnWxA
-
-Chautauqua Video : https://www.youtube.com/watch?v=lg55vj2YCUc
-
-Beat Broker Video : https://www.youtube.com/watch?v=VlJCC01Pc7U
 
 custom font use
 ---------------------

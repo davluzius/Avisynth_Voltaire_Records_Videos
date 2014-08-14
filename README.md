@@ -1,13 +1,12 @@
-Avisynth Voltaire Records Videos
----------------------------------
+Voltaire Records Videos w Avisynth 
+----------------------------------
 
-A series of remix videos I did for Voltaire Records in 2012 using Avisynth:
+A series of remix videos for the band Shock I did for Voltaire Records in 2012 using Avisynth:
 
-Steve Moore Video : https://www.youtube.com/watch?v=VeJtHxsS1OM
+Watch the Steve Moore Video : https://www.youtube.com/watch?v=VeJtHxsS1OM
+![Alt steve moore video ](http://davedave.us/voltaire/videos/steve-moore.png)
 
-used basic beat detection by supplying two audio tracks, but only outputting one
-
-one audio track is rendered, the other is the beat sync just used for the program
+watch the other videos : 
 
 Hatchback Video : https://www.youtube.com/watch?v=nCSL6BYnWxA
 
@@ -16,14 +15,14 @@ Chautauqua Video : https://www.youtube.com/watch?v=lg55vj2YCUc
 Beat Broker Video : https://www.youtube.com/watch?v=VlJCC01Pc7U
 
 What is Avi Synth ?
----------------------
+
 http://www.avisynth.nl/index.php/Main_Page
 
 a killer procedural program for video editing.  
 well.. you just have to try it!!! 
 
 gscript - control structures conditionals, etc. 
-----------------------------------------
+
 basic things you expect from a language are not inherintly available, but can be used via this plugin : 
 http://forum.doom9.org/showthread.php?t=147846
 
@@ -40,7 +39,7 @@ if you do use avisynth, please get in touch with me, I have been meaning to get 
 
 
 custom font use
----------------------
+
 Loose Shus Video : https://www.youtube.com/watch?v=wK2OMJBulVA&list=UUpEJ6Nbg7gHYD-9RfFrHZJA
 
 this video is not part of the Shock series, but uses a custom font as a mask.... source code to come

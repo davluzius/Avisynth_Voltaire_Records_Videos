@@ -1,5 +1,5 @@
 
-Series of videos for the using Avisynth:
+Series of videos I made using <a href="http://avisynth.nl/index.php/Main_Page" target="_blank">Avisynth</a> :
 
 Steve Moore Video : https://www.youtube.com/watch?v=VeJtHxsS1OM
 ![Alt steve moore video ](https://cloud.githubusercontent.com/assets/1656829/6368652/8a5da96a-bc93-11e4-958a-9feb82f83329.png)
